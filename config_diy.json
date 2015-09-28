@@ -1,5 +1,5 @@
 {
-  "use_iojs": true,
+  "use_iojs": false,
   "iojs": {
     "version": "v1.1.0",
     "removeOld": true,
